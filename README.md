@@ -18,7 +18,7 @@ If you use the data, please cite the following paper:
 Abiderexiti, K., M. Maimaiti, T. Yibulayin and A. Wumaier (2016). Annotation Schemes for Constructing Uyghur Named Entity Relation Corpus. The 20th International Conference on Asian Language Processing (IALP 2016)
 [[IALP2016]](http://chinese.csie.ncku.edu.tw/IALP2016/Accepted%20Papers.html)
 
-Thanks for Jesse's revision for camera-ready version of the paper.
+Thanks for Jesse Peacock's (at the Charles University) revision for camera-ready version of the paper.
 
 LICENSE
 ==========
